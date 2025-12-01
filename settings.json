@@ -1,0 +1,24 @@
+{
+    "editor.mouseWheelZoom": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSaveMode": "modifications",
+    "editor.formatOnType": false,
+    "diffEditor.codeLens": true,
+    "files.autoGuessEncoding": true,
+    "files.autoSaveDelay": 1e+40,
+    "files.autoSaveWhenNoErrors": false,
+    "[javascript]": {
+        "editor.maxTokenizationLineLength": 2500,
+        "editor.suggest.showFunctions": true,
+        "editor.suggest.showClasses": true,
+        "editor.autoClosingBrackets": "always"
+    },
+    "[luau]": {
+        "editor.defaultFormatter": "ms-vscode.anycode",
+        "editor.formatOnSave": true,
+        "editor.acceptSuggestionOnEnter": "smart"
+    },
+    "files.trimTrailingWhitespace": true,
+    "search.useIgnoreFiles": true
+}
