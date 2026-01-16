@@ -98,6 +98,7 @@ declare var UserSettings: {
         };
     };
 };
+declare function getservice(name: string): Service
 declare function setfpscap(fps: number): void;
 declare function getfpscap(): number;
 declare function getfflag(flagName: string): boolean;
